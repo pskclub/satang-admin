@@ -1,4 +1,41 @@
-.req{
+.req {
     color: red;
 }
 
+.merchant-total {
+    font-size: 22px
+}
+
+.product-total {
+    font-size: 22px
+}
+
+.space-bottom-mini {
+    margin-bottom: 20px;
+}
+
+.space-top-mini {
+    margin-top: 20px;
+}
+
+ul.pagination {
+    margin-right: 20px;
+    margin-top: 0;
+    margin-bottom: -11px;
+}
+
+.removeInputOld {
+    position: relative;
+    margin-top: -80px;
+    margin-left: 140px;
+}
+
+td > img {
+    width: 60px;
+    height: 60px;
+}
+
+.input-img {
+    width: 200px;
+    height: 150px;
+}

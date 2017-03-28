@@ -15,6 +15,7 @@
 
     <!--  Light Bootstrap Dashboard core CSS    -->
     <link href="assets/css/light-bootstrap-dashboard.css" rel="stylesheet"/>
+    <link href="assets/css/main.css" rel="stylesheet"/>
 
     <!--     Fonts and icons     -->
     <link href="http://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
@@ -106,11 +107,15 @@
 
         <div class="content">
             <div class="container-fluid">
-                <div class="row" style="margin-bottom: 20px">
-                    <div class="col-xs-9"><p style="font-size: 22px">Total amount 3.151 BTC</p>
-                        <p>No. orders 5</p></div>
+                <div class="row space-bottom-mini">
+                    <div class="col-xs-9">
+                        <p class="merchant-total">Total amount 3.151 BTC</p>
+                        <p>No. orders 5</p>
+                    </div>
                     <div class="col-xs-3">
-                        <div class="pull-right">     <p>Power</p><input type="checkbox" checked data-toggle="switch"/>
+                        <div class="pull-right">
+                            <p>Power</p>
+                            <input type="checkbox" checked data-toggle="switch"/>
                         </div>
                     </div>
                 </div>
@@ -127,8 +132,7 @@
                                                                      placeholder="Search"></div>
                                 <div class="columns columns-right pull-right">
 
-                                    <ul class="pagination"
-                                        style="margin-right: 20px;margin-top: 0;margin-bottom: -11px;">
+                                    <ul class="pagination">
                                         <li class="page-first disabled"><a href="javascript:void(0)">«</a></li>
                                         <li class="page-pre disabled"><a href="javascript:void(0)">‹</a></li>
                                         <li class="page-number active"><a href="javascript:void(0)">1</a></li>

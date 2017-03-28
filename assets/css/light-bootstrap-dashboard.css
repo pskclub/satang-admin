@@ -8240,7 +8240,7 @@ star {
   background: -webkit-linear-gradient(top, #23CCEF 0%, rgba(64, 145, 255, 0.6) 100%);
   background: -o-linear-gradient(top, #23CCEF 0%, rgba(64, 145, 255, 0.6) 100%);
   background: -ms-linear-gradient(top, #23CCEF 0%, rgba(64, 145, 255, 0.6) 100%);
-  background: linear-gradient(to bottom, #23CCEF 0%, rgba(64, 145, 255, 0.6) 100%);
+  background: linear-gradient(to bottom, #1879fd 0%, rgba(64, 145, 255, 0.6) 100%);
   background-size: 150% 150%;
 }
 .full-page[data-color="green"]:after {
@@ -9515,6 +9515,6 @@ star {
   background: -webkit-linear-gradient(top, #23CCEF 0%, rgba(64, 145, 255, 0.7) 100%);
   background: -o-linear-gradient(top, #23CCEF 0%, rgba(64, 145, 255, 0.7) 100%);
   background: -ms-linear-gradient(top, #23CCEF 0%, rgba(64, 145, 255, 0.7) 100%);
-  background: linear-gradient(to bottom, #23CCEF 0%, rgba(0, 7, 15, 0.7) 100%);
+  background: linear-gradient(to bottom, #1879fd 0%, rgba(0, 7, 15, 0.7) 100%);
   background-size: 150% 150%;
 }
