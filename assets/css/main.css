@@ -3,7 +3,7 @@
 }
 
 .merchant-total {
-    font-size: 22px
+    font-size: 24px
 }
 
 .product-total {
@@ -38,4 +38,16 @@ td > img {
 .input-img {
     width: 200px;
     height: 150px;
+}
+
+.table > thead > tr > th, .table > tbody > tr > th, .table > tfoot > tr > th, .table > thead > tr > td, .table > tbody > tr > td, .table > tfoot > tr > td {
+    font-size: 16px;
+}
+
+.footer:not(.footer-big) nav > ul a {
+    font-size: 16px;
+}
+
+.dropdown-menu > li:last-child > a {
+    font-size: 16px;
 }
